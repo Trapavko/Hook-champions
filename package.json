@@ -101,6 +101,6 @@
     "director": "^1.2.8",
     "font-awesome": "^4.6.3",
     "lodash": "^4.13.1",
-    "mithril": "^0.2.5"
+    "mithril": "^2.0.4"
   }
 }
